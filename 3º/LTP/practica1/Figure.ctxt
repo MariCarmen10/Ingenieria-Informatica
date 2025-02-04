@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Figure
+comment0.text=\n\ class\ Figure.\n\ \n\ @author\ LTP\ \n\ @version\ 2020-21\n
+comment1.params=x\ y
+comment1.target=Figure(double,\ double)
+comment2.params=
+comment2.target=double\ area()
+comment3.params=
+comment3.target=double\ perimeter()
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

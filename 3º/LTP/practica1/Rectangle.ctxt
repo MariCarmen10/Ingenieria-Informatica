@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\n\ Write\ a\ description\ of\ class\ Rectangle\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=o
+comment1.target=boolean\ equals(java.lang.Object)
+comment2.params=x\ y\ b\ h
+comment2.target=Rectangle(double,\ double,\ double,\ double)
+comment3.params=
+comment3.target=double\ area()
+comment4.params=
+comment4.target=double\ perimeter()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
